@@ -3,55 +3,31 @@
 ### ARKit Blendshapes List
 Here is the complete list of ARKit blendshapes used for facial animation:
 
-#### Left blendshapes
-##### Eyebrows
-- browDownLeft
-- browOuterUpLeft
-##### Eyes
-- eyeLookUpLeft
-- eyeLookDownLeft
-- eyeLookInLeft
-- eyeLookOutLeft
-- eyeBlinkLeft
-- eyeSquintLeft
-- eyeWideLeft
-##### Cheeks & Nose
-- cheekSquintLeft
-- noseSneerLeft
-##### Mouth
-- mouthLeft
-- mouthSmileLeft
-- mouthFrownLeft
-- mouthDimpleLeft
-- mouthUpperUpLeft
-- mouthLowerDownLeft
-- mouthPressLeft
-- mouthStretchLeft
-
-#### Right blendshapes
-##### Eyebrows
-- browDownRight
-- browOuterUpRight
-##### Eyes
-- eyeLookUpRight
-- eyeLookDownRight
-- eyeLookInRight
-- eyeLookOutRight
-- eyeBlinkRight
-- eyeSquintRight
-- eyeWideRight
-##### Cheeks & Nose
-- cheekSquintRight
-- noseSneerRight
-##### Mouth
-- mouthRight
-- mouthSmileRight
-- mouthFrownRight
-- mouthDimpleRight
-- mouthUpperUpRight
-- mouthLowerDownRight
-- mouthPressRight
-- mouthStretchRight
+| Left Blendshapes | Right Blendshapes |
+|------------------|-------------------|
+| **Eyebrows**     | **Eyebrows**      |
+| browDownLeft     | browDownRight     |
+| browOuterUpLeft  | browOuterUpRight  |
+| **Eyes**         | **Eyes**          |
+| eyeLookUpLeft    | eyeLookUpRight    |
+| eyeLookDownLeft  | eyeLookDownRight  |
+| eyeLookInLeft    | eyeLookInRight    |
+| eyeLookOutLeft   | eyeLookOutRight   |
+| eyeBlinkLeft     | eyeBlinkRight     |
+| eyeSquintLeft    | eyeSquintRight    |
+| eyeWideLeft      | eyeWideRight      |
+| **Cheeks & Nose**| **Cheeks & Nose** |
+| cheekSquintLeft  | cheekSquintRight  |
+| noseSneerLeft    | noseSneerRight    |
+| **Mouth**        | **Mouth**         |
+| mouthLeft        | mouthRight        |
+| mouthSmileLeft   | mouthSmileRight   |
+| mouthFrownLeft   | mouthFrownRight   |
+| mouthDimpleLeft  | mouthDimpleRight  |
+| mouthUpperUpLeft | mouthUpperUpRight |
+| mouthLowerDownLeft| mouthLowerDownRight|
+| mouthPressLeft   | mouthPressRight   |
+| mouthStretchLeft | mouthStretchRight |
 
 #### Non-duplicated blendshapes
 ##### Eyebrows
