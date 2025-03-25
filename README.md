@@ -1,5 +1,8 @@
 # ARKit Blendshapes
-
+Resources: 
+* https://developer.apple.com/documentation/arkit/arfaceanchor/blendshapes
+* https://arkit-face-blendshapes.com/
+  
 ### ARKit Blendshapes List
 Here is the complete list of ARKit blendshapes used for facial animation:
 
