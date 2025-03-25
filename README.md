@@ -3,10 +3,10 @@ Resources:
 * https://developer.apple.com/documentation/arkit/arfaceanchor/blendshapes
 * https://arkit-face-blendshapes.com/
   
-## ARKit Blendshapes List
-Here is the complete list of ARKit blendshapes used for facial animation:
+## ARKit Blendshapes List & Table
+Here is the complete list & table of all the 52 ARKit blendshapes used for facial animation:
 
-### Non-duplicated blendshapes
+### Non-duplicated blendshapes (12)
 
 #### Eyebrows
   - browInnerUp<br>
@@ -42,6 +42,7 @@ Here is the complete list of ARKit blendshapes used for facial animation:
   - tongueOut<br>
     <img src="ARKit_images/tongueOut.png" alt="tongueOut" width="25%">
 
+### Duplicated blendshapes (20*2)
 | Left Blendshapes | Right Blendshapes |
 |------------------|-------------------|
 | **Eyebrows**     | **Eyebrows**      |
