@@ -9,6 +9,7 @@ Here is the complete list of ARKit blendshapes used for facial animation:
 | **Eyebrows**     | **Eyebrows**      |
 | browDownLeft     | browDownRight     |
 | browOuterUpLeft  | browOuterUpRight  |
+|------------------|-------------------|
 
 | **Eyes**         | **Eyes**          |
 | eyeLookUpLeft    | eyeLookUpRight    |
@@ -18,10 +19,12 @@ Here is the complete list of ARKit blendshapes used for facial animation:
 | eyeBlinkLeft     | eyeBlinkRight     |
 | eyeSquintLeft    | eyeSquintRight    |
 | eyeWideLeft      | eyeWideRight      |
+|------------------|-------------------|
 
 | **Cheeks & Nose**| **Cheeks & Nose** |
 | cheekSquintLeft  | cheekSquintRight  |
 | noseSneerLeft    | noseSneerRight    |
+|------------------|-------------------|
 
 | **Mouth**        | **Mouth**         |
 | mouthLeft        | mouthRight        |
@@ -32,6 +35,7 @@ Here is the complete list of ARKit blendshapes used for facial animation:
 | mouthLowerDownLeft| mouthLowerDownRight|
 | mouthPressLeft   | mouthPressRight   |
 | mouthStretchLeft | mouthStretchRight |
+|------------------|-------------------|
 
 #### Non-duplicated blendshapes
 
