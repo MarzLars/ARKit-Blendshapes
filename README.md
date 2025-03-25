@@ -5,9 +5,11 @@ Here is the complete list of ARKit blendshapes used for facial animation:
 
 | Left Blendshapes | Right Blendshapes |
 |------------------|-------------------|
+
 | **Eyebrows**     | **Eyebrows**      |
 | browDownLeft     | browDownRight     |
 | browOuterUpLeft  | browOuterUpRight  |
+
 | **Eyes**         | **Eyes**          |
 | eyeLookUpLeft    | eyeLookUpRight    |
 | eyeLookDownLeft  | eyeLookDownRight  |
