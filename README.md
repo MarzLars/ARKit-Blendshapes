@@ -3,66 +3,78 @@
 ### ARKit Blendshapes List
 Here is the complete list of ARKit blendshapes used for facial animation:
 
-#### Eyebrows
-- browInnerUp
+#### Left blendshapes
+##### Eyebrows
 - browDownLeft
-- browDownRight
 - browOuterUpLeft
-- browOuterUpRight
-
-#### Eyes
+##### Eyes
 - eyeLookUpLeft
-- eyeLookUpRight
 - eyeLookDownLeft
-- eyeLookDownRight
 - eyeLookInLeft
-- eyeLookInRight
 - eyeLookOutLeft
-- eyeLookOutRight
 - eyeBlinkLeft
-- eyeBlinkRight
 - eyeSquintLeft
-- eyeSquintRight
 - eyeWideLeft
-- eyeWideRight
-
-#### Cheeks & Nose
-- cheekPuff
+##### Cheeks & Nose
 - cheekSquintLeft
-- cheekSquintRight
 - noseSneerLeft
-- noseSneerRight
+##### Mouth
+- mouthLeft
+- mouthSmileLeft
+- mouthFrownLeft
+- mouthDimpleLeft
+- mouthUpperUpLeft
+- mouthLowerDownLeft
+- mouthPressLeft
+- mouthStretchLeft
 
-#### Jaw
+#### Right blendshapes
+##### Eyebrows
+- browDownRight
+- browOuterUpRight
+##### Eyes
+- eyeLookUpRight
+- eyeLookDownRight
+- eyeLookInRight
+- eyeLookOutRight
+- eyeBlinkRight
+- eyeSquintRight
+- eyeWideRight
+##### Cheeks & Nose
+- cheekSquintRight
+- noseSneerRight
+##### Mouth
+- mouthRight
+- mouthSmileRight
+- mouthFrownRight
+- mouthDimpleRight
+- mouthUpperUpRight
+- mouthLowerDownRight
+- mouthPressRight
+- mouthStretchRight
+
+#### Non-duplicated blendshapes
+##### Eyebrows
+- browInnerUp
+##### Eyes
+- eyeLookUp
+- eyeLookDown
+- eyeLookIn
+- eyeLookOut
+##### Cheeks & Nose
+- cheekPuff
+##### Jaw
 - jawOpen
 - jawForward
 - jawLeft
 - jawRight
-
-#### Mouth
+##### Mouth
 - mouthFunnel
 - mouthPucker
-- mouthLeft
-- mouthRight
 - mouthRollUpper
 - mouthRollLower
 - mouthShrugUpper
 - mouthShrugLower
 - mouthClose
-- mouthSmileLeft
-- mouthSmileRight
-- mouthFrownLeft
-- mouthFrownRight
-- mouthDimpleLeft
-- mouthDimpleRight
-- mouthUpperUpLeft
-- mouthUpperUpRight
-- mouthLowerDownLeft
-- mouthLowerDownRight
-- mouthPressLeft
-- mouthPressRight
-- mouthStretchLeft
-- mouthStretchRight
-
-#### Tongue
+##### Tongue
 - tongueOut
